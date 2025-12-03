@@ -2,7 +2,7 @@ Attendance Keeper – SQA Project
 
 Project Overview
 
-This repository contains the complete Software Quality Assurance (SQA) testing documentation, test cases, bug reports, and performance testing for the Attendance Keeper Application.
+This repository contains the complete Software Quality Assurance (SQA) testing documentation, test cases, bug reports, and performance testing for the Attendance Keeper Application. 
 
 The goal of this project is to ensure:
 
@@ -33,4 +33,3 @@ The goal of this project is to ensure:
 
 ✔ Bug Reports with Evidence
 
-✔ (Optional) Automation Testing (Playwright/Selenium)
